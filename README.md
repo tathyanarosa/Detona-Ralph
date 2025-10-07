@@ -1,2 +1,2 @@
-# Detona-Rlalph
+# Detona-Ralph
 Jogo do Detona Ralph 
