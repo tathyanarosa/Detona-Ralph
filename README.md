@@ -23,18 +23,9 @@ Bem-vindo ao **JSGame Detona Ralph**! Neste repositório, você encontrará um j
 
 Contribuições são bem-vindas! Se você deseja melhorar este jogo, adicionar novos recursos ou corrigir problemas, sinta-se à vontade para abrir um _pull request_.
 
-### Modificações implementadas
-1. SweetAlert para mostrar pop-up sobre o fim do tempo e fim de jogo.
-2. Redução da vida ao fim do tempo.
-3. Implementação da função continueGame.
-4. Implementação da função gameOver
-5. Inserção de som para o fim de jogo.
-6. Inserção do favicon
 
 ### Créditos
 
 Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
 
 ---
-
-Divirta-se jogando o **JSGame Detona Ralph** enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. Lembre-se de conferir o repositório original [aqui](https://github.com/digitalinnovationone/jsgame-detona-ralph) e deixar uma ⭐️ se você gostou do projeto!
